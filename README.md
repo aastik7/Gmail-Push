@@ -1,7 +1,7 @@
 # Gmail-Push
 A mail pusher for gmail, through ssl.
 
-"""
+
 # Email Sending Script
 
 ## Overview
